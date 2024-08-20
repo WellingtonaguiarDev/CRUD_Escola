@@ -1,0 +1,7 @@
+Main\service\AlunoService.class
+Main\CrudApplication.class
+Main\config\SwaggerConfig.class
+Main\config\WebConfig.class
+Main\repository\AlunoRepository.class
+Main\controller\AlunoController.class
+Main\model\Aluno.class
