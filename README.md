@@ -46,3 +46,8 @@ Este projeto é um sistema de gerenciamento de alunos, onde é possível adicion
 
 Sinta-se à vontade para contribuir para este projeto, enviando pull requests e abrindo issues.
 
+![Captura de tela 2024-08-21 084912](https://github.com/user-attachments/assets/44d22702-1c10-4c29-a7e4-d37c193a2dc3)
+![Captura de tela 2024-08-21 084924](https://github.com/user-attachments/assets/d313c9df-88c5-4742-ba90-5029d19d6a3c)
+
+
+
